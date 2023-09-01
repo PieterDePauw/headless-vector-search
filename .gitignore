@@ -1,2 +1,5 @@
 
 .DS_Store
+supabase/functions/vector-search/index copy.ts
+supabase/functions/vector-search/.env
+.vscode/index copy.ts
